@@ -1,4 +1,4 @@
-## Don’t Stop🤚 멈추지 않는 개발자
+## Don’t Stop🤚 
 
 ### 📚 STACKS
 <div>
