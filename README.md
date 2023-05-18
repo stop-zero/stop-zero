@@ -20,7 +20,7 @@
 <br/>
 
 * [POSCO x CodingOn K-Digital Training] 포스코 풀스택 웹 개발자 양성 6기 
-  * 2023/02/27 - 2023/05/20
+  * 2023/02/27 - 2023/05/22
 
 📧 [jungjy0097@naver.com](jungjy0097@naver.com)<br/>
 📂 [Portfolio]()<br/>
